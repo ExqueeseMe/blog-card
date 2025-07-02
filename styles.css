@@ -37,8 +37,8 @@ h1 {
 .blog-card {
     display: flex; 
     flex-direction: column;
-    width: 390px;
-    height: 535px;
+    width: 375px;
+    height: 525px;
     background-color: white;
     border: solid 1px black;
     border-radius: 20px;
