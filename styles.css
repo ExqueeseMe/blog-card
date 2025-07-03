@@ -31,19 +31,19 @@ h1 {
     margin-bottom: 0;
 }
 
-.blog-card {
+article {
     display: flex; 
     flex-direction: column;
     width: 330px;
-    height: 475px;
+    height: 470px;
     background-color: white;
     border: solid 1px black;
     border-radius: 20px;
     box-shadow: 10px 8px;
-    padding: 20px;
+    padding: 23px;
 }
 
-.author {
+footer {
     display: flex;
     flex-direction: row;
     align-items: center;
