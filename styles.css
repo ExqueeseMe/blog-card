@@ -14,7 +14,7 @@ main {
 }
 
 #illustration {
-    width: 335px;
+    width: 330px;
     border-radius: 13px;
     align-self: center;
 }
@@ -22,20 +22,20 @@ main {
 p {
     font-weight: 500;
     font-size: 0.875rem;
-    margin-top: 0.5rem;
 }
 
 h1 {
     font-size: 1.5rem;
     font-weight: 800;
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0;
 }
 
 .blog-card {
     display: flex; 
     flex-direction: column;
-    width: 340px;
-    height: 490px;
+    width: 330px;
+    height: 475px;
     background-color: white;
     border: solid 1px black;
     border-radius: 20px;
@@ -55,10 +55,8 @@ h1 {
 }
 
 .tag {
-
     font-family: sans-serif;
     align-self: flex-start;
-
     justify-self: center;
     height: 30px;
 }
@@ -69,17 +67,18 @@ h1 {
     padding: 6px 12px; 
     font-size: 14px;
     font-weight: 700;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 
 #date {
-    margin-top: 3rem;
+    margin-top: 2.25rem;
 }
 
 #desc {
     color: hsl(0, 0%, 42%);
     font-size: 16px;
     line-height: 1.5;
+    margin-top: 1rem;
 }
 
 #pfp-name {
